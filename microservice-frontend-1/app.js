@@ -166,6 +166,10 @@ function setComment($id) {
 
     //TODO complete implementation using the product id
     alert("app.js/setComment() not implemented")
+    product_id = 143,
+    comment =  "This is an amazing cell phone!",
+    score = 5
+
 
     //HINT
     //Take note of how the Ajax call in app.js/fetchComments() posts a GET request to corresponding API endpoint.
@@ -177,7 +181,9 @@ function addToCart($id) {
 
     //TODO complete implementation using the product id
     alert("app.js/addToCart() not implemented")
-
+    product_id = 143
+    email = "wmatheny@uncc.edu"
+  
 
 }
 

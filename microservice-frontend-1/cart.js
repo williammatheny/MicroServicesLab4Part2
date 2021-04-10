@@ -62,7 +62,7 @@ function checkOut() {
 
     //TODO complete implementation
     alert("cart.js/checkOut() is not implemented")
-     email = " john.doe@uncc.edu"
+     email = " wmatheny@uncc.edu"
 
 
 }
